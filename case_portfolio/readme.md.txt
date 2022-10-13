@@ -1,0 +1,2 @@
+Como o intuito de garantir vendas expressivas e a eficiência do uso de capital da Loft foi construído um algoritmo que prevê o preço de venda e quais dos apartamentos mapeados a empresa deve comprar, reformar e vender assim otimizando a receita  por unidade de tempo (R$/dia).
+Com esse projeto conseguimos obter o porfolio final e todas as informações sobre lucro e localizações.
